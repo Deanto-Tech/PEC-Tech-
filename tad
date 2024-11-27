@@ -1,0 +1,7 @@
+
+git remote add paypal https://github.com/landmark34aa/paypal
+The Alias for:
+   paypal -->  https://github.com/landmark34aa/paypal =  
+$ git push paypal master
+  Username for 'https://github.com': 
+     legah2045
